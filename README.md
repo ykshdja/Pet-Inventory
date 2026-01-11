@@ -13,34 +13,7 @@ A full-featured React web application for managing pet inventory with a responsi
 
 ## 🏗️ Project Structure
 
-
-Pet-Inventory/
-├── public/
-│   ├── index.html
-│   ├── logo.svg
-│   └── manifest.json
-├── src/
-│   ├── common/
-│   │   ├── Footer.js          # Footer component with copyright
-│   │   └── Header.js          # Navigation header with logo
-│   ├── components/
-│   │   ├── Edit.js            # Edit page component
-│   │   ├── InventoryForm.js   # Form for adding/editing pets
-│   │   ├── Pertable.js        # Reusable table component
-│   │   ├── SearchPage.js      # Search functionality page
-│   │   └── About.js           # About page with company info
-│   ├── API.js                 # Service layer for backend API calls
-│   ├── App.js                 # Main application component with routing
-│   ├── App.css                # Global application styles
-│   ├── App.test.js            # Test file for App component
-│   ├── index.js               # Application entry point
-│   ├── index.css              # Base styles
-│   ├── setupTests.js          # Jest DOM setup
-│   ├── reportWebVitals.js     # Performance metrics
-│   └── assets/
-│       ├── img3.png           # Petland logo
-│       └── Capture.png        # Promotional banner
-└── package.json
+<img width="536" height="513" alt="Screenshot 2026-01-12 at 12 23 43 AM" src="https://github.com/user-attachments/assets/6495e54a-9481-4da4-808e-c34570ae2d0c" />
 
 
 ## 🛠️ Tech Stack
